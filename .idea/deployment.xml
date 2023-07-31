@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="luma01 (362395c5-f511-4acd-bf07-122501cb68e4)" createEmptyFolders="true" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false" autoUploadExternalChanges="true">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="luma01 (362395c5-f511-4acd-bf07-122501cb68e4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/clion_projects/ge/cpp_example" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
